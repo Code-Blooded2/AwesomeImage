@@ -58,11 +58,11 @@
         {
           "name": "awesome-image-iosArm64Main.klib",
           "url": "awesome-image-iosarm64-1.0.0.klib",
-          "size": 112436,
-          "sha512": "cda646dbfee4da9ecddbf8d9c52ad2d0e0b3f7330c939c32abbf3b8ce1b2901c2d6d13a6f1683d1fdcca98dfb8553fd8a82d73273af53c7959760c5501f651a7",
-          "sha256": "d9b0de838d8ad5096744beb47e69631794fe4e947b34eda30de5aa17e958d1fe",
-          "sha1": "c9a47a30baf9eb577f8cd80d7ec98eb83447a089",
-          "md5": "16f581a2dee8a6942fe0b55fb080c737"
+          "size": 114942,
+          "sha512": "7ad8901cce02e2048b9110dd2c42f4a5d0555d9d59fc487116078241bb1888c6c9e49df3ba88bbf678ea27f69ef96662851e28b08dffccfab5d10511fe4c2be8",
+          "sha256": "71dc4c3bb049763dd514288f39cba94754a9eb82c056b747746d834d559aed19",
+          "sha1": "94046b95587de00dab9c565ed4742cd59e9ec7be",
+          "md5": "8c6c29bce1ba04cc8b9972511aeb5302"
         }
       ]
     },
@@ -163,11 +163,11 @@
         {
           "name": "awesome-image-iosarm64-metadata.jar",
           "url": "awesome-image-iosarm64-1.0.0-metadata.jar",
-          "size": 12392,
-          "sha512": "53190c448541b2375f1823955d90c6a21905558d4e571e94b575f10eef24262a0f173bdae9d1f94440442e1a4d88b86a67eea0ce6e616a9cdf537470b612c11a",
-          "sha256": "faba5c9cf8d9d5cd8a69c792ac376e2f975ae640c421356a253f30c5560d3a41",
-          "sha1": "99eaee7d6d2c291d9cd58d092d6f5a36df9d8d2a",
-          "md5": "3dcd669ba6e5514a2691039b586a327d"
+          "size": 12016,
+          "sha512": "c0b64c49efb2b64ed2f0cbdd07e3df7c2f02a8b00d6bb1f5534348415ac567f430e15004c49dc20e4102c45633c0036cb9c19b77f9b793947ec3c4b30e855dd0",
+          "sha256": "6514dd9bb1821135b204c9b0d07e5080c3265d706295ee417ff935ba09b6cafe",
+          "sha1": "9d7e28aeca409e8b545b954783b705be7dae30a7",
+          "md5": "201c9228e0c202c3b228bd6c4cefd0fd"
         }
       ]
     }

@@ -28,11 +28,11 @@
         {
           "name": "awesome-image.aar",
           "url": "awesome-image-android-1.0.0.aar",
-          "size": 115645,
-          "sha512": "e6309959b265d6e8eade96e27935e1fafe88d07b0bb66c0e27907488fd0fc7c4fb0bb91f89cfa18549097b8ea764ec3ee8592f3900c38f7b4ff726b961d6a494",
-          "sha256": "c9fe6de4e8c563f9176010f388f05d8067ccaf8076ab6bc2c42724529bd8bc18",
-          "sha1": "a9dc32f4e3932940ab653fc4ba50635052577948",
-          "md5": "f3932640c99b0eaee72c4b2c0c07c6a3"
+          "size": 118031,
+          "sha512": "9f8fcda05312d1284325cf421553dc48dabf56672641a04a1b3dee29414dad747339f1a821dbe274538d742cd53f69bb47ad48f0a538610afabe0ee33c54485a",
+          "sha256": "c0038cb198ab2ff4f7887ddc61d37be66bf3b4a30749d28e199fc862576e5345",
+          "sha1": "11b7fe26feb4eb48c0371215fc699c7bcc3c721d",
+          "md5": "e3ab4a295414b6e5e7e62732aa983711"
         }
       ]
     },
@@ -86,11 +86,11 @@
         {
           "name": "awesome-image.aar",
           "url": "awesome-image-android-1.0.0.aar",
-          "size": 115645,
-          "sha512": "e6309959b265d6e8eade96e27935e1fafe88d07b0bb66c0e27907488fd0fc7c4fb0bb91f89cfa18549097b8ea764ec3ee8592f3900c38f7b4ff726b961d6a494",
-          "sha256": "c9fe6de4e8c563f9176010f388f05d8067ccaf8076ab6bc2c42724529bd8bc18",
-          "sha1": "a9dc32f4e3932940ab653fc4ba50635052577948",
-          "md5": "f3932640c99b0eaee72c4b2c0c07c6a3"
+          "size": 118031,
+          "sha512": "9f8fcda05312d1284325cf421553dc48dabf56672641a04a1b3dee29414dad747339f1a821dbe274538d742cd53f69bb47ad48f0a538610afabe0ee33c54485a",
+          "sha256": "c0038cb198ab2ff4f7887ddc61d37be66bf3b4a30749d28e199fc862576e5345",
+          "sha1": "11b7fe26feb4eb48c0371215fc699c7bcc3c721d",
+          "md5": "e3ab4a295414b6e5e7e62732aa983711"
         }
       ]
     },

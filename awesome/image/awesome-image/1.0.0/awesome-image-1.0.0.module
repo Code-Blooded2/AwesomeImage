@@ -56,11 +56,11 @@
         {
           "name": "awesome-image-metadata.jar",
           "url": "awesome-image-1.0.0.jar",
-          "size": 7895,
-          "sha512": "46cc2f778023200fcabd50a96c46b1f118dc9a4ef0626e3b7f6f54fde8f09f5570f82ff95c27721499877a6188e283a08ecc322d2e937ca98393c6c1b9902d37",
-          "sha256": "b35e210231ea7c65ecbb466f2d0366b77cee3883cbe2ce20ac2d7da8c89c2f3f",
-          "sha1": "fce4d4e60d93841133311fef326c3942127b15eb",
-          "md5": "b26dbd5079afffbad3a764cedcdff1ce"
+          "size": 9134,
+          "sha512": "b3b1d1f3f7270bf1ce6f4ba31556eef63f2520b91cb8656d8d123e497661140c8cab4d5df5c7af3e9131b086d9de12f36a0d37bddf7de2f8da0037eed66bba09",
+          "sha256": "b5a012daec53527a712043ac8e141c82b2f0f36044dbddc21acb17f18c61b778",
+          "sha1": "9c9c8e31103631e96d2cdcf2219a527f345bd3f8",
+          "md5": "6b0c57a4fb4cda53ec5003c36c1d8f8f"
         }
       ]
     },
