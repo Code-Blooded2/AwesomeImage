@@ -58,11 +58,11 @@
         {
           "name": "awesome-image-iosArm64Main.klib",
           "url": "awesome-image-iosarm64-1.0.0.klib",
-          "size": 114942,
-          "sha512": "7ad8901cce02e2048b9110dd2c42f4a5d0555d9d59fc487116078241bb1888c6c9e49df3ba88bbf678ea27f69ef96662851e28b08dffccfab5d10511fe4c2be8",
-          "sha256": "71dc4c3bb049763dd514288f39cba94754a9eb82c056b747746d834d559aed19",
-          "sha1": "94046b95587de00dab9c565ed4742cd59e9ec7be",
-          "md5": "8c6c29bce1ba04cc8b9972511aeb5302"
+          "size": 114929,
+          "sha512": "b23375296bbeced1c42a51ab946e87542de8b7806bac91e5fa7e0a831b3666192114c58dc6c876930ce4f7683d83a763157e80de8d8e9cfba78b9e6e46b1c548",
+          "sha256": "fddb3dff36e4b46f2fb46cbf4e75ed425d44a66e54292786ee9b8cd60139c8d2",
+          "sha1": "32693e02599d60374b67217ff6d1402e70d7fcd9",
+          "md5": "fa6acf4c2bb74e482af9d37823f4c56a"
         }
       ]
     },

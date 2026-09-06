@@ -58,11 +58,11 @@
         {
           "name": "awesome-image-iosSimulatorArm64Main.klib",
           "url": "awesome-image-iossimulatorarm64-1.0.0.klib",
-          "size": 115007,
-          "sha512": "87b1704e679a9ca3191c03d3c16ed20d0f350cd10935a0d33e631ab3c1404d7825d1560992d906ca7b8951a9037ad0d8b6459ff79214727901f7284e11c7076a",
-          "sha256": "6078fc6534b88021be3ccd4af3f38176c735abb5aa1dd0d3bdddd05b27842a6a",
-          "sha1": "613fca9e1ef6d7228abff8fe4698f3da15f09ac8",
-          "md5": "97233493bdad4b41d6c5cb9f62b91a93"
+          "size": 114994,
+          "sha512": "8e27a9bb07a62f7aabde112a818dc7088d0ef912ef7dd935efe688bf78f5ad5cefa5b0d80015c78afe1acfaf4c08f5d72a0a221ea775b639c43736d404ab9937",
+          "sha256": "5343eed8070c03c8c72f15813642aac3b8c703f6097664a37dd2e39866175fbd",
+          "sha1": "330c81e818bacdec9e738045b23f1f1ca4eae745",
+          "md5": "deccc01f014292a8a81aa3c94a6af0f2"
         }
       ]
     },
